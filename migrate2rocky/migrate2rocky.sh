@@ -617,8 +617,8 @@ usage() {
       '' \
       'Options:' \
       '-h Display this help' \
-      '-r Convert to rocky' \
-      '-V Verify switch' \
+      '-r Convert to Rocky Linux' \
+      '-V Verify RPMs installed against RPM database' \
       '   !! USE WITH CAUTION !!'
   exit 1
 } >&2
